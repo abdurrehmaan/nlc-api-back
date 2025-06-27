@@ -1,0 +1,23 @@
+DEVELOPER=Abdur Rehman
+PROJECT= OSCT
+COMPANY= Ncsael
+
+
+PORT = 9000
+
+#Database
+# MONGODB_DATABASE_URL = mongodb+srv://nokz38:qazwsxedc@cluster0.5ztmsbc.mongodb.net/
+# MONGODB_DATABASE_URL = mongodb://nokz38:qazwsxedc@ac-nynlf8w-shard-00-00.5ztmsbc.mongodb.net:27017,ac-nynlf8w-shard-00-01.5ztmsbc.mongodb.net:27017,ac-nynlf8w-shard-00-02.5ztmsbc.mongodb.net:27017/?ssl=true&replicaSet=atlas-vgvh1r-shard-0&authSource=admin&retryWrites=true&w=majority
+
+MONGODB_DATABASE_URL = mongodb://127.0.0.1:27017/OSCT
+# MONGODB_DATABASE_URL = mongodb+srv://nokz38:qazwsxedc@cluster0.5ztmsbc.mongodb.net/OSCT
+JWT_KEY = QWEAFC7DD7E0CA511EB2DF42A26EADC6A1334A331AF2AAB70857CC8DB8568159
+
+
+PORT = 9000
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=465
+EMAIL_SECURE=true
+EMAIL_SERVICE=gmail
+EMAIL_USERNAME=raokhan627@gmail.com
+EMAIL_PASSWORD=bahwtdtxrkffxznp
